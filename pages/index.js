@@ -38,6 +38,7 @@ export default function Home({allPostsData}) {
               <br />
               <small className={utilStyles.lightText}>
                 <Date dateString={date} />
+                Dit is wat test tekst
               </small>
             </li>
           ))}
